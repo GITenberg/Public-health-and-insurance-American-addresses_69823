@@ -1,0 +1,36 @@
+_repo: Public-health-and-insurance-American-addresses_69823
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Newsholme, Arthur, Sir
+    alias: Newsholme, Sir Arthur
+    birthdate: 1857
+    deathdate: 1943
+    gutenberg_agent_id: '50044'
+    url: http://www.gutenberg.org/2009/agents/50044
+    wikipedia: https://en.wikipedia.org/wiki/Arthur_Newsholme
+description: ''
+gutenberg_issued: '2023-01-17'
+identifiers:
+  gutenberg: '69823'
+  lccn: '20012817'
+language: en
+pgterms:marc904: https://archive.org/details/b29810784/page/n7/mode/2up
+pgterms:marc905: 20210301234856newsholmek
+pgterms:marc906: '1920'
+pgterms:marc907: US
+production_note: Charlene Taylor, Bob Taylor and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: 'United States: The Johns Hopkins Press,1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Public health'
+- !lcsh 'Public health -- Great Britain'
+- !lcsh 'Health insurance -- Great Britain'
+- !lcc 'RA'
+- GITenberg
+title: 'Public health and insurance: American addresses'
+url: http://www.gutenberg.org/ebooks/69823
