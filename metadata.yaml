@@ -1,5 +1,8 @@
 _repo: Public-health-and-insurance-American-addresses_69823
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69823-h/images/cover.jpg
 creator:
   author:
     agent_name: Newsholme, Arthur, Sir
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/50044
     wikipedia: https://en.wikipedia.org/wiki/Arthur_Newsholme
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69823#Public-health-and-insurance-American-addresses
 gutenberg_issued: '2023-01-17'
 identifiers:
   gutenberg: '69823'
